@@ -259,6 +259,12 @@ For issues and questions:
 
 ---
 
+Donations
+If you'd like to support development:
+
+Bitcoin: 1B8xs4LWbwFq4Zi4pzEmjNYkTCgsUByb5L
+Ethereum: 0xe89c84A7758429b4D11a2091e1dccf7433328Fa9
+
 **Krius IDE** - Empowering developers with AI-assisted programming.
 
 
