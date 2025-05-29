@@ -260,3 +260,6 @@ For issues and questions:
 ---
 
 **Krius IDE** - Empowering developers with AI-assisted programming.
+
+
+Hype Started by Sxedra and Moorish.
